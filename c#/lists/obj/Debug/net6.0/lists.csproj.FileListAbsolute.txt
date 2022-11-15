@@ -1,0 +1,15 @@
+/home/alex/Programming/Algorithms/c#/lists/bin/Debug/net6.0/lists
+/home/alex/Programming/Algorithms/c#/lists/bin/Debug/net6.0/lists.deps.json
+/home/alex/Programming/Algorithms/c#/lists/bin/Debug/net6.0/lists.runtimeconfig.json
+/home/alex/Programming/Algorithms/c#/lists/bin/Debug/net6.0/lists.dll
+/home/alex/Programming/Algorithms/c#/lists/bin/Debug/net6.0/lists.pdb
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.csproj.AssemblyReference.cache
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.AssemblyInfoInputs.cache
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.AssemblyInfo.cs
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.csproj.CoreCompileInputs.cache
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.dll
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/refint/lists.dll
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.pdb
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/lists.genruntimeconfig.cache
+/home/alex/Programming/Algorithms/c#/lists/obj/Debug/net6.0/ref/lists.dll

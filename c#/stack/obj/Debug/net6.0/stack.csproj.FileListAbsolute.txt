@@ -1,0 +1,15 @@
+/home/alex/Programming/Algorithms/c#/stack/bin/Debug/net6.0/stack
+/home/alex/Programming/Algorithms/c#/stack/bin/Debug/net6.0/stack.deps.json
+/home/alex/Programming/Algorithms/c#/stack/bin/Debug/net6.0/stack.runtimeconfig.json
+/home/alex/Programming/Algorithms/c#/stack/bin/Debug/net6.0/stack.dll
+/home/alex/Programming/Algorithms/c#/stack/bin/Debug/net6.0/stack.pdb
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.csproj.AssemblyReference.cache
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.AssemblyInfoInputs.cache
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.AssemblyInfo.cs
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.csproj.CoreCompileInputs.cache
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.dll
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/refint/stack.dll
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.pdb
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/stack.genruntimeconfig.cache
+/home/alex/Programming/Algorithms/c#/stack/obj/Debug/net6.0/ref/stack.dll
